@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+a57a739b1b9e0e49b3c6e6df1e08c8ba proto/proto_vector.pb.cc

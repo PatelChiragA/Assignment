@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -std=c++11   CMakeFiles/BootcampServer.dir/src/server_1.cpp.o  -o ../bin/BootcampServer -rdynamic ../proto/libproto.a -lprotobuf -lpthread 

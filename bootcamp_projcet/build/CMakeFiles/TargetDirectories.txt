@@ -1,0 +1,9 @@
+/scratch/project1/build/CMakeFiles/edit_cache.dir
+/scratch/project1/build/CMakeFiles/rebuild_cache.dir
+/scratch/project1/build/proto/CMakeFiles/edit_cache.dir
+/scratch/project1/build/proto/CMakeFiles/rebuild_cache.dir
+/scratch/project1/build/proto/CMakeFiles/proto.dir
+/scratch/project1/build/application/CMakeFiles/rebuild_cache.dir
+/scratch/project1/build/application/CMakeFiles/BootcampClient.dir
+/scratch/project1/build/application/CMakeFiles/edit_cache.dir
+/scratch/project1/build/application/CMakeFiles/BootcampServer.dir

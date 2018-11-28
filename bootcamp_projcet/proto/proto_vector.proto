@@ -1,0 +1,10 @@
+message myvector {
+
+//	message fpointer {
+		repeated string str = 1;
+//		optional string str = 1; 
+//	}
+
+//	 repeated fpointer filename = 1;
+
+}
